@@ -76,6 +76,14 @@ https://drive.google.com/drive/folders/11jUfpt6w3GDFtg0bxn6_gdCsTJFWBDIa?usp=sha
 Model weights for the trained models (20 and 50 epochs) can be accessed here:  
 [Download Model Weights](https://drive.google.com/drive/folders/1Da_xFOXH4RjJJ3k08WRFdE3pgLkZcKF_?usp=drive_link)
 
+---
+### Initial Results
+- PNG Notebook (16 epochs):
+Train | Loss: 0.1704  Dice: 0.7844  IoU: 0.6783
+Val   | Loss: 0.1606 Dice: 0.8120 IoU: 0.7117
+- TIFF Notebook (50 epochs):
+Train | Loss: 0.2077  Dice: 0.4676  IoU: 0.3694
+Val   | Loss: 0.2444  Dice: 0.4859  IoU: 0.3562
 
 ## Web Application Features
 
