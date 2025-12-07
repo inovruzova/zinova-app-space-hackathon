@@ -123,6 +123,10 @@ The application will be available at:
 ```bash
 http://localhost:8501
 ```
+### Overall Architecture 
+
+![Overall Architecture](images/drawio.jpg)
 
 ### Contributors
 This project was implemented by Ilhama Novruzova, Zahra Bayramli and Nilufar Aliyeva.
+
