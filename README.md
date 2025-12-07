@@ -38,6 +38,11 @@ The platform consists of three integrated layers:
 ---
 
 ## AI Model Training
+We utilized data from the **Refined Deep-SAR Oil Spill (SOS)** dataset  
+[https://zenodo.org/records/15298010](https://zenodo.org/records/15298010)  
+
+and the **Sentinel-1 SAR Oil Spill Image Dataset**  
+[https://zenodo.org/records/8346860](https://zenodo.org/records/8346860)
 
 ### PNG-Based Training
 Notebook: `oil_spill_detection_png.ipynb`
@@ -69,6 +74,10 @@ Notebook: `oil_spill_detection_tiff.ipynb`
 https://drive.google.com/drive/folders/11jUfpt6w3GDFtg0bxn6_gdCsTJFWBDIa?usp=sharing
 
 ---
+### Model Weights
+Model weights for the trained models (20 and 50 epochs) can be accessed here:  
+[Download Model Weights](https://drive.google.com/drive/folders/1Da_xFOXH4RjJJ3k08WRFdE3pgLkZcKF_?usp=drive_link)
+
 
 ## Web Application Features
 
