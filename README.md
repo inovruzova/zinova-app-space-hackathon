@@ -109,6 +109,10 @@ Val   | Loss: 0.2444  Dice: 0.4859  IoU: 0.3562
 
 ---
 
+## Demo
+<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/4b7550be-625b-42af-8db0-94af3f8c6e84" />
+
+
 ## Environment Setup
 
 ### 1. Install Dependencies
