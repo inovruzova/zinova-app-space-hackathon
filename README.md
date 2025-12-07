@@ -38,11 +38,9 @@ The platform consists of three integrated layers:
 ---
 
 ## AI Model Training
-We utilized data from the **Refined Deep-SAR Oil Spill (SOS)** dataset  
-[https://zenodo.org/records/15298010](https://zenodo.org/records/15298010)  
+We utilized data from the [**Refined Deep-SAR Oil Spill (SOS) dataset**](https://zenodo.org/records/15298010)  
 
-and the **Sentinel-1 SAR Oil Spill Image Dataset**  
-[https://zenodo.org/records/8346860](https://zenodo.org/records/8346860)
+and the [**Sentinel-1 SAR Oil Spill Image Dataset**](https://zenodo.org/records/8346860).
 
 ### PNG-Based Training
 Notebook: `oil_spill_detection_png.ipynb`
@@ -125,3 +123,6 @@ The application will be available at:
 ```bash
 http://localhost:8501
 ```
+
+### Contributors
+This project was implemented by Ilhama Novruzova, Zahra Bayramli and Nilufar Aliyeva.
